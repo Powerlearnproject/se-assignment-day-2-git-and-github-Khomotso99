@@ -146,5 +146,5 @@ Keep the team informed about project progress, milestones achieved, and any pote
 Recognize individual contributions and team successes to boost morale and motivation. 
 
 .Address conflicts constructively:
-Establish clear conflict resolution processes to address disagreements in a respectful and productive manne
+Establish clear conflict resolution processes to address disagreements in a respectful and productive manne.
 
